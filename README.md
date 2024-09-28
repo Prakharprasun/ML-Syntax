@@ -1,2 +1,2 @@
 # ML-Syntax
-Collection of 
+Collection of ML Syntax for reference
